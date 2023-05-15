@@ -2,7 +2,7 @@
   "name": "my-erc20-bot",
   "version": "1.0.0",
   "description": "A Solidity smart contract for an ERC20 bot that buys and sells tokens on Uniswap with ETH.",
-  "author": "Your Name",
+  "author": "Roland Divine",
   "license": "MIT",
   "scripts": {
     "clean": "rm -rf artifacts/ cache/ coverage/ node_modules/ package-lock.json",
